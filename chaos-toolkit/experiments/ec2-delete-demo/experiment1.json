@@ -15,7 +15,7 @@
 				"arguments": {
 					"state": "running",
 					"instance_ids": [
-					    "i-0b4b0c1efe3ef6ec3a"
+					    "i-0b4b0c1efe3ef6ec3"
 					],
 					"filters": []
 				}
